@@ -1,0 +1,4 @@
+Кому выдан	Кем выдан	Срок действия	Назначения	Имя	Состояние	Шаблон сертификата
+F900AB42FD30F1BF	XBL Client IPsec Issuing CA	12.10.2020	Проверка подлинности клиента, Конечная система IP-безопасности, 1.3.6.1.4.1.311.120.4.4	<Нет>	    	
+localhost	localhost	21.09.2025	Проверка подлинности сервера	IIS Express Development Certificate	    	
+NVIDIA GameStream Server	NVIDIA GameStream Server	30.04.2040	<Все>	<Нет>	    	
